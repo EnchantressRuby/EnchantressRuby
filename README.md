@@ -9,8 +9,7 @@
 <br/>
 
 <div align="center">
-  🔭 I'm currently an IT student at CZU and I'm also attending a Front-end Developer Bootcamp.<br/>
-  
+  🔭 I'm currently an IT student at CZU and I'm also attending a Front-end Developer Bootcamp.<br/><br/>
   
   🌱 I’m currently doing a deep dive into learning React.<br/>
   
