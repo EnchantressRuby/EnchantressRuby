@@ -16,6 +16,8 @@
   ✨ Fun fact: My 4 C’s – Cats, Cars, Code, and Chocolate.
 </div>
 
+<br/>
+
 <div align="center">
   <a href="mailto:rumeysakovac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -24,6 +26,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
+<br/>
+<div align"center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind"/><br/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,firebase,github,redux,yarn"/>
+  </a>
+  
+ https://skillicons.dev/icons?i=js,html,css,wasm
+</div>
+
 
 <!-- RK
 ## Hi there 👋
