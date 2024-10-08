@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  🔭 I'm currently an IT student at CZU and I'm also attending a Front-end Developer Bootcamp.
-  🌱 I’m currently doing a deep dive into learning React.
-  💬 Feel free to ask me about CSS, HTML, JavaScript, and React.
-  📫 How to reach me: <a href="mailto:rumeysakovac@gmail.com">rumeysakovac@gmail.com</a>
-  🙂‍↕️ Fun fact: My 4 C’s – Cats, Cars, Code, and Chocolate.
+  🔭 I'm currently an IT student at CZU and I'm also attending a Front-end Developer Bootcamp.<br>
+  🌱 I’m currently doing a deep dive into learning React.<br>
+  💬 Feel free to ask me about CSS, HTML, JavaScript, and React.<br>
+  📫 How to reach me: <a href="mailto:rumeysakovac@gmail.com">rumeysakovac@gmail.com</a><br>
+  ✨ Fun fact: My 4 C’s – Cats, Cars, Code, and Chocolate.
 </div>
