@@ -29,13 +29,11 @@
 
 <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
 <br/>
-<div align"center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind"/><br/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,firebase,github,redux,yarn"/>
+    <img src="https://skillicons.dev/icons?i=html,CSS,js,react"/><br/>
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,figma,firebase,github,redux,yarn"/>
   </a>
-  
- https://skillicons.dev/icons?i=js,html,css,wasm
 </div>
 
 
