@@ -14,7 +14,7 @@
   🌱 I’m currently doing a deep dive into learning React.<br/>
   
   💬 Feel free to ask me about CSS, HTML, JavaScript, and React.<br/>
-  
+  [rumeysakovac@gmail.com](mailto:rumeysakovac@gmail.com)
   📫 How to reach me: <a href="mailto:rumeysakovac@gmail.com">rumeysakovac@gmail.com</a><br/>
   
   ✨ Fun fact: My 4 C’s – Cats, Cars, Code, and Chocolate.
@@ -23,10 +23,10 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:rumeysakovac@gmail.com">
+  <a text-decoration="none" href="mailto:rumeysakovac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.linkedin.com/in/rumeysakovac/">
+  <a text-decoration="none" href="https://www.linkedin.com/in/rumeysakovac/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
