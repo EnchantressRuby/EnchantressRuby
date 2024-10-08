@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate Front-end Developer from Prague.</h3>
 
-<br/>
 <hr/>
 
 <div align="center">
