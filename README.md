@@ -13,7 +13,7 @@
   
   🌱 I’m currently doing a deep dive into learning React.<br/>
   
-  💬 Feel free to ask me about CSS, HTML, JavaScript, and React.<br/>
+  💬 Feel free to ask me about HTML, CSS, JavaScript, and React.<br/>
 
   📫 How to reach me: <a href="mailto:rumeysakovac@gmail.com">rumeysakovac@gmail.com</a><br/>
   
