@@ -17,7 +17,7 @@
 
   📫 How to reach me: <a href="mailto:rumeysakovac@gmail.com">rumeysakovac@gmail.com</a><br/>
   
-  ✨ Fun fact: My 4 C’s – Cats, Cars, Code, and Chocolate.
+  ✨ My 4 C’s – Cats, Cars, Code, and Chocolate.
 </div>
 
 <br/>
