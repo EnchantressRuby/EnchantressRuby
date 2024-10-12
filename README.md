@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td><a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a></td>
-    <td><img src="https://github.com/user-attachments/assets/b490cb14-b45e-4c8e-91ad-d0d31da22413"/></td>
+    <td><img src="https://github.com/user-attachments/assets/24e659bc-7048-49d9-8d6d-2639e3382884"/></td>
     <td>React, Tailwind CSS, Firebase, react-toastify, react-router-dom, axios</td>
   </tr>
 </table>
