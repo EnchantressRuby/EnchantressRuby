@@ -76,8 +76,7 @@
   </tr>
   <tr>
     <td><a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a></td>
-    <td> https://github.com/user-attachments/assets/91bb33ed-df6d-4865-9e46-686f4351ab9d
- </td>
+    <td>![2024-10-12_13-14-10-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/91bb33ed-df6d-4865-9e46-686f4351ab9d)</td>
     <td>React, Tailwind CSS, Firebase, react-tostify, react-router-dom, axios</td>
   </tr>
 </table>
