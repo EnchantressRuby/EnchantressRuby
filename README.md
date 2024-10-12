@@ -66,7 +66,9 @@
   |<a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a>| *gif* |React, Tailwind CSS, Firebase, react-tostify, react-router-dom, axios|
 </div>
 -->
-<table>
+<h2 align="center">💻My Projects💻</h2>
+<br/>
+<table align="center">
   <tr>
     <th>Project Name</th>
     <th>How does my project look</th>
