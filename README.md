@@ -55,8 +55,9 @@
 </div>
 
 <hr/>
--->
 
+-->
+<!--
 <h2 align="center">💻My Projects💻</h2>
 <br/>
 <div>
@@ -64,7 +65,19 @@
   |---|---|---|
   |<a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a>| *gif* |React, Tailwind CSS, Firebase, react-tostify, react-router-dom, axios|
 </div>
-
+-->
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>How does my project look</th>
+    <th>Libraries and Technologies I use</th>
+  </tr>
+  <tr>
+    <td><a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a></td>
+    <td> *gif* </td>
+    <td>React, Tailwind CSS, Firebase, react-tostify, react-router-dom, axios</td>
+  </tr>
+</table>
 <h2 align="center">⚡Stats⚡</h2>
 <br>
 <div align="center">
