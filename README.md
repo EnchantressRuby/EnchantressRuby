@@ -57,6 +57,14 @@
 <hr/>
 -->
 
+<h2 align="center">💻My Projects💻</h2>
+<br/>
+<div>
+  |Project Name|How does my project look|Libraries and Technologies I use|
+  |---|---|---|
+  |<a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a>| *gif* |React, Tailwind CSS, Firebase, react-tostify, react-router-dom, axios|
+</div>
+
 <h2 align="center">⚡Stats⚡</h2>
 <br>
 <div align="center">
