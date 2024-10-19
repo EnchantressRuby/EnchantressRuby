@@ -76,18 +76,28 @@
     <th>Libraries and Technologies I use</th>
   </tr>
   <tr>
-    <td><a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a><br/>
+    <td>
+      <a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a><br/>
       <a href="https://github.com/EnchantressRuby/react-movie-app">Repository</a>
     </td>
     <td><img src="https://github.com/user-attachments/assets/24e659bc-7048-49d9-8d6d-2639e3382884"/></td>
     <td>React, Tailwind CSS, Firebase, react-toastify, react-router-dom, axios</td>
   </tr>
   <tr>
-    <td><a href="https://kovacdev-react-store.netlify.app">Store App</a><br/>
+    <td>
+      <a href="https://kovacdev-react-store.netlify.app">Store App</a><br/>
       <a href="https://github.com/EnchantressRuby/react-store-app">Repository</a>
     </td>
     <td><img src="https://github.com/user-attachments/assets/c75095d3-9698-4f68-af64-f9b0641a447c"/></td>
     <td>React, Tailwind CSS, react-router-dom, axios</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kovacdev-react-football-legends.netlify.app">Football Legends</a><br/>
+      <a href="https://github.com/EnchantressRuby/react-football-legends">Repository</a>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/941e486a-54d4-4607-9b05-6266d1c5928f"/></td>
+    <td>React, react-bootstrap, bootstrap</td>
   </tr>
 </table>
 <h2 align="center">⚡Stats⚡</h2>
