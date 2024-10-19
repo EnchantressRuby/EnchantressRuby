@@ -82,6 +82,13 @@
     <td><img src="https://github.com/user-attachments/assets/24e659bc-7048-49d9-8d6d-2639e3382884"/></td>
     <td>React, Tailwind CSS, Firebase, react-toastify, react-router-dom, axios</td>
   </tr>
+  <tr>
+    <td><a href="https://kovacdev-react-store.netlify.app">Store App</a><br/>
+      <a href="https://github.com/EnchantressRuby/react-store-app">Repository</a>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/c75095d3-9698-4f68-af64-f9b0641a447c"/></td>
+    <td>React, Tailwind CSS, react-router-dom, axios</td>
+  </tr>
 </table>
 <h2 align="center">⚡Stats⚡</h2>
 <br>
