@@ -76,7 +76,7 @@
     <th>Libraries and Technologies I use</th>
   </tr>
   <tr>
-    <td><a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a>
+    <td><a href="https://kovacdev-react-movie-app.netlify.app/">Movie App</a><br/>
       <a href="https://github.com/EnchantressRuby/react-movie-app">Repository</a>
     </td>
     <td><img src="https://github.com/user-attachments/assets/24e659bc-7048-49d9-8d6d-2639e3382884"/></td>
