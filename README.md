@@ -71,7 +71,7 @@
 <br/>
 <table align="center">
   <tr>
-    <th>Project Name & Repository</th>
+    <th>Live Project & Repository</th>
     <th>How does my project look</th>
     <th>Libraries and Technologies I use</th>
   </tr>
