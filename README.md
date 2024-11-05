@@ -11,7 +11,7 @@
 <hr/>
 
 <div align="center">
-  🔭 I'm currently an IT student at CZU and I'm also attending a Front-end Developer Bootcamp.<br/><br/>
+  🔭 I'm currently an IT student at CZU and also an enthusiastic Front-end Developer.<br/><br/>
   
   🌱 I’m currently doing a deep dive into learning React.<br/>
   
